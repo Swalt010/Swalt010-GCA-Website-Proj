@@ -1,1 +1,19 @@
+body {
+  background-color: #FFF7E1;
+  font-family: 'Proxima Nova Condensed', Arial, sans-serif;
+}
 
+.Pantone-dark-blue {
+    color: #003366;
+}
+.Pantone-light-yellow {
+    color: #f40000;
+}
+
+.move-text {
+  position: relative;
+  left: 250px;
+  width: auto;
+  text-align: left;
+  margin-top: 50px;
+}
